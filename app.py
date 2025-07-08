@@ -4,7 +4,7 @@ import requests
 import json
 
 # ========== Gemini API Setup ==========
-API_KEY = "AIzaSyCQHXvyyaVeG2FwsMx0AYqagYdYqE1xqcY"
+API_KEY = "Use your api key here "
 GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
 HEADERS = {
     "Content-Type": "application/json"
