@@ -101,5 +101,4 @@ This app is for educational and prototyping purposes only. Please ensure you're 
 Made by [Jayant Bhati](https://www.linkedin.com/in/jayantbhati77/).
 For feedback or collaboration, feel free to reach out!
 
-```
 
