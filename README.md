@@ -82,12 +82,6 @@ requests
 
 ---
 
-## 📸 Demo Screenshot
-
-![screenshot](https://via.placeholder.com/600x400.png?text=Demo+Screenshot+Here)
-
----
-
 ## 🤝 Credits
 
 * Built with ❤️ using [Google Gemini API](https://ai.google.dev/)
